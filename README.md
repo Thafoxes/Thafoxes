@@ -47,13 +47,30 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 Mobile & Apps</h4>
+      <h4>📱 Mobile & Game Dev</h4>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Web Frameworks & APIs</h4>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI & Machine Learning</h4>
+      <img src="https://img.shields.io/badge/Antigravity-00F0FF?style=for-the-badge&logo=google&logoColor=black" />
+      <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h4>🎮 Game Dev & Engines</h4>
       <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
+       <h4>📊 Business Intelligence & Analytics</h4>
+      <img src="https://img.shields.io/badge/Alteryx-008080?style=for-the-badge&logo=alteryx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E28743?style=for-the-badge&logo=tableau&logoColor=white" />
     </td>
   </tr>
 </table>
